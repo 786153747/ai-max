@@ -1,6 +1,6 @@
 # AI MAX
 
-> 声明：本项目经AI编辑，非原创，不过都是我本人正在使用的，非佬勿6，还会持续迭代
+> 这是基于 [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 进行二次开发，提供npm一键安装方式，协议沿用MIT
 
 **Claude Code 增强配置，开箱即用。**
 
@@ -311,44 +311,6 @@ aimax/
     |-- user-CLAUDE.md      # 用户级配置示例 (~/.claude/CLAUDE.md)
     |-- statusline.json     # 自定义状态栏配置
 ```
-
----
-
-## 赞助支持
-
-如果这个项目对你有帮助，欢迎赞助支持，你的支持是我持续维护的动力！
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://claudecodecn-1253302184.cos.ap-beijing.myqcloud.com/zfb.jpg" width="200" alt="支付宝">
-      <br>
-      <b>支付宝</b>
-    </td>
-    <td align="center">
-      <img src="https://claudecodecn-1253302184.cos.ap-beijing.myqcloud.com/wx.jpg" width="200" alt="微信">
-      <br>
-      <b>微信</b>
-    </td>
-    <td align="center">
-      <img src="https://claudecodecn-1253302184.cos.ap-beijing.myqcloud.com/paypal.png" width="200" alt="PayPal">
-      <br>
-      <b>PayPal</b>
-    </td>
-  </tr>
-</table>
-
-### 赞助者列表
-
-感谢以下赞助者的支持 ❤️
-
-<!-- SPONSORS:START -->
-| 名称 | 金额 | 日期 |
-|------|------|------|
-| 虚位以待 | - | - |
-<!-- SPONSORS:END -->
-
-> 无论多少金额，我会将你添加到赞助者列表中，感谢各位的支持
 
 ---
 
